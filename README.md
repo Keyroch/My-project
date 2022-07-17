@@ -2,4 +2,4 @@
 For gomycode school git course
 
 
-## Project notes:
+# Project notes:
